@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NoSoulGinger
+- 👋 Hi, I’m Tanner Cronin
 - 👀 I’m interested in Digital Forensics
 - 🌱 I’m currently learning Cyber Operations
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on internship projects to further my career in Cyber Operations
 - 📫 How to reach me is my two emails on my account
 
 <!---
